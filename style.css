@@ -1,0 +1,139 @@
+.logospan {
+    color: rgb(0, 167, 14);
+}
+
+.logoh2 {
+    font-size: 40px
+}
+
+.fas.fa-search {
+    color: rgb(0, 167, 14);
+}
+
+.searchinput input[type="text"] {
+    border: 1px solid rgb(0, 167, 14);
+    color: #000;
+}
+
+.orta {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.orta1 {
+    width: 80%;
+    height: 120px;
+    margin: 35px auto;
+    border-radius: 10px;
+}
+
+.orta i {
+    color: rgb(0, 167, 14);
+    font-size: 40px;
+}
+
+.orta h3 {
+    margin: 15px 0 0 0;
+}
+
+.xett {
+    width: 100%;
+    border-top: 7px solid rgb(0, 167, 14);
+}
+
+.ortaetraf {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.ortaetraf1 {
+    width: 80%;
+    height: 80px;
+    margin: 35px auto;
+    border-radius: 10px;
+    padding: 25px 0 0 0;
+}
+
+.ortaetraf1 i#redd {
+    color: red;
+}
+
+.ortaetraf1 i#reddm {
+    font-size: 40px;
+    color: red;
+}
+
+.ortaetraf1 i#greenn {
+    color: green;
+}
+
+
+/*Footer Start*/
+
+.footer {
+    width: 100%;
+    height: 7rem;
+    background-color: #17181b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyright {
+    font-family: 'Baloo da 2', serif;
+    font-size: 1.6rem;
+    color: #a7a7a7;
+}
+
+#sociallist a {
+    margin: 0 2rem;
+}
+
+#sociallist i {
+    font-size: 2rem;
+    color: #a7a7a7;
+}
+
+
+/*Footer End*/
+
+
+/* Map Start*/
+
+.contact-map-section {
+    position: relative;
+    padding-bottom: 130px;
+    width: 100%;
+    height: 467px;
+    margin: 20px;
+}
+
+.auto-container-map {
+    position: static;
+    width: 1200px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
+.map-outer {
+    width: 1170px;
+    height: 467px;
+}
+
+iframe {
+    width: 100%;
+    height: 450px;
+}
+
+
+/*Map End*/
